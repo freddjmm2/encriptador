@@ -1,0 +1,2 @@
+# encriptador
+BIENVENIDO AL ENCRIPTADOR
